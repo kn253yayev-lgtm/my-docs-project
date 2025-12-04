@@ -1,0 +1,14 @@
+site_name: Документація до Калькулятора
+site_author: Яковлев Єгор
+site_description: 'Проста та зрозуміла документація.'
+
+theme:
+  name: material
+  language: uk
+
+nav:
+  - 'Головна': 'index.md'
+  - 'Посібник користувача':
+    - 'Встановлення': 'guide/installation.md'
+    - 'Приклади використання': 'guide/usage.md'
+  - 'Про проєкт': 'about.md'
